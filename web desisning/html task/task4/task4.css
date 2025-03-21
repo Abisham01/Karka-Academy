@@ -1,0 +1,28 @@
+#a{
+    background-color: black;
+    color: white
+}
+.two {
+    display: flex;
+        text-align: center;
+}
+
+.two::before,
+.two::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+
+.two span {
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+#b{
+    text-align: center;
+}
+.aa{
+    text-align: center;
+}
