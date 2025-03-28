@@ -1,0 +1,80 @@
+#a {
+    background-color: black;
+    color: white
+}
+
+.two {
+    display: flex;
+    text-align: center;
+}
+
+.two::before,
+.two::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+
+.two span {
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+#b {
+    text-align: center;
+}
+
+.aa {
+    text-align: center;
+}
+
+#bb {
+
+    border-style: solid;
+    padding: 0 0 0 10px;
+}
+
+#c {
+    background-color: rosybrown;
+    height: 50px;
+    margin-top: -20px;
+
+}
+
+#d {
+    background-color: black;
+    margin: 0;
+    height: 40px;
+
+}
+
+#e {
+    display: inline-block;
+    color: white;
+
+}
+
+#f {
+    display: inline-block;
+    color: white;
+
+}
+
+#g {
+    display: inline-block;
+    color: white;
+
+}
+
+#h {
+    padding: 0 0 0 50px;
+    width: 80%;
+}
+
+#i {
+    display: flex;
+    height: 200px;
+    width: 100%;
+}
+
