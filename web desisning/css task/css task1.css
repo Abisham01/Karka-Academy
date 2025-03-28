@@ -1,0 +1,521 @@
+.a {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.one {
+    border: solid;
+    height: 500px;
+    width: 50%;
+    background-color: gray;
+}
+
+.two {
+    border: solid;
+    height: 60px;
+    width: 98%;
+    margin: 3px;
+    text-align: center;
+    background-color: white;
+}
+
+.three {
+    background-color: white;
+    border: solid;
+    height: 60px;
+    width: 98%;
+    text-align: center;
+    margin: 3px;
+}
+
+.four {
+
+    height: 300px;
+    width: 99%;
+    margin: 3px;
+    display: flex;
+}
+
+.five {
+
+    width: 60%;
+    height: 300px;
+
+}
+
+.six {
+    background-color: white;
+    height: 145px;
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+}
+
+.sevan {
+    background-color: white;
+    height: 140px;
+    width: 97%;
+    margin-top: 3px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.eight {
+    background-color: white;
+    height: 295px;
+    width: 40%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nine {
+    background-color: white;
+    height: 48px;
+    width: 98%;
+    margin: 3px;
+    border: solid;
+    text-align: center;
+}
+
+.ten {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.elevan {
+    height: 500px;
+    width: 50%;
+
+}
+
+.twelve {
+    height: 100px;
+    width: 100%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thirteen {
+    border: solid;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourteen {
+    height: 200px;
+    width: 101%;
+    display: flex;
+}
+
+.fifteen {
+    height: 200px;
+    width: 30%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sixteen {
+    height: 200px;
+    width: 68.1%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sevanteen {
+    height: 85px;
+    width: 100%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eighteen {
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nineteen {
+    height: 600px;
+    width: 50%;
+}
+
+.twenty {
+    height: 100px;
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    margin: 4px;
+}
+
+.twentyone {
+    height: 100px;
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    margin: 4px;
+}
+
+.twentytwo {
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+
+.twentythree {
+    height: 195px;
+    width: 38%;
+    margin: 4px;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.twentyfour {
+    height: 200px;
+    width: 60%;
+}
+
+.twentyfive {
+    height: 95px;
+    width: 98%;
+    background-color: gainsboro;
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.twentysix {
+    height: 95px;
+    width: 98%;
+    background-color: gainsboro;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.twentysevan {
+    height: 100px;
+    width: 98%;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+}
+
+.twentyeight {
+    height: 100px;
+    width: 98%;
+    display: flex;
+    align-items: ;
+    justify-content: center;
+    background-color: gainsboro;
+    margin: 4px;
+}
+
+.twentynine {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thirty {
+    height: 300px;
+    width: 50%;
+    background-color: blue;
+}
+
+.thirtyone {
+    height: 100px;
+    width: 98%;
+    margin: 3px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thirtytwo {
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+
+.thirtythree {
+    height: 185px;
+    width: 40%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+}
+
+.thirtyfour {
+    height: 200px;
+    width: 60%;
+
+}
+
+.thirtyfive {
+    height: 90px;
+    width: 100%;
+    display: flex;
+}
+
+.thirtysix {
+    height: 85px;
+    width: 48%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+}
+
+.thirtysevan {
+    height: 85px;
+    width: 48%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+    background-color: aqua;
+}
+
+.thirtyeight {
+    height: 95px;
+    width: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    margin: 4px;
+}
+
+.thirtynine {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourty {
+    height: 500px;
+    width: 50%;
+    background-color: gainsboro;
+    padding: 30px;
+}
+
+.fourtytwo {
+    height: 50px;
+    width: 40%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.fourtythree {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+}
+
+.fourtyfour {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    text-align: center;
+
+}
+
+.fourtyfive {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+
+}
+
+.fourtysix {
+    width: 49%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourtysevan {
+    width: 49%;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourtyeight {
+    height: 150px;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.fourtynine {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fifty {
+    height: 400px;
+    width: 50%;
+    background-color: aqua;
+}
+
+.fiftyone {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    color: white;
+
+}
+
+.fiftytwo {
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+
+.fiftythree {
+    height: 300px;
+    width: 30%;
+    background-color: yellowgreen;
+    text-align: center;
+    color: white;
+}
+
+.fiftyfour {
+    height: 300px;
+    width: 70%;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+.fiftyfive {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+}
+
+.fiftysix {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fiftysevan {
+    height: 400px;
+    width: 40%;
+    border: solid;
+}
+
+.fiftyeight {
+    height: 100px;
+    width: 100%;
+    background-color: rosybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fiftynine {
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sixty {
+    height: 150px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sixtyone{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
