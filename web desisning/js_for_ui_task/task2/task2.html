@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     
+<!-- task 1 -->
+
+<input type="radio" name="options" value="option1" > Option 1
+<input type="radio" name="options" value="option2"> Option 2
+<input type="radio" name="options" value="option3"> Option 3
+<button onclick="submitForm()">Submit</button>
+<p id="result"></p>
+<script>
+    function submitForm() {
+        const selectedOption = document.querySelector('input[name="options"]:checked');
+       document.getElementById("result").innerHTML = "You selected: " + selectedOption.value;
+       
+    }
+</script>
+
+
+
+
+<!-- tasdk 2 -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DOM Selector Demo</title>
+  <style>
+    .highlight {
+      color: blue;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 id="title">Hello World</h1>
+  <p class="text">Paragraph 1</p>
+  <p class="text">Paragraph 2</p>
+  <p class="text">Paragraph 3</p>
+  <button id="changeBtn">Change Content</button>
+
+  <script>
+
+    const title = document.getElementById('title');
+    title.textContent = 'Title Changed with getElementById()';
+    console.log('getElementById:', title);
+
+
+    const firstParagraph = document.querySelector('.text');
+    firstParagraph.style.color = 'red';
+    console.log('querySelector:', firstParagraph);
+
+    
+    const allParagraphs = document.querySelectorAll('.text');
+    allParagraphs.forEach(p => {
+      p.classList.add('highlight');
+    });
+    console.log('querySelectorAll:', allParagraphs);
+  </script>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
